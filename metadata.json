@@ -1,0 +1,8 @@
+{
+  "name": "Pankaj Kumar Portfolio Clone",
+  "description": "A high-fidelity portfolio clone with a minimal aesthetic, smooth Framer Motion animations, and responsive Tailwind CSS layout.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
