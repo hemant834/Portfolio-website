@@ -99,7 +99,7 @@ const About: React.FC = () => {
                 Chartered Institute of Technology, Abu Road (Sirohi)
               </p>
               <p className="text-sm text-zinc-500">
-                Batch: 2022 – Present
+                Batch: 2023 – Present
               </p>
             </div>
 
